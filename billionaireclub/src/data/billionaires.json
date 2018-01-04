@@ -1,0 +1,91 @@
+[
+    {
+        "id": 0,
+        "name": "Jeff Bezos",
+        "age": 53,
+        "worth": 72.8,
+        "company": "Amazon",
+        "revenue": 136
+    },
+    {
+        "id": 1,
+        "name": "Bill Gates",
+        "age": 60,
+        "worth": 86,
+        "company": "Microsoft",
+        "revenue": 89.95
+    },
+    {
+        "id": 2,
+        "name": "Mark Zuckerburg",
+        "age": 33,
+        "worth": 56,
+        "company": "Facebook",
+        "revenue" : 27.64
+    },
+    {
+        "id": 3,
+        "name": "Elon Musk",
+        "age": 46,
+        "worth": 20.6,
+        "company": "Tesla",
+        "revenue": 7
+    },
+    {
+        "id": 4,
+        "name": "Warren Buffet",
+        "age": 85,
+        "worth": 75.6,
+        "company": "Berkshire Hathaway Inc.",
+        "revenue": 223 
+    },
+    {
+        "id": 5,
+        "name" : "Michael Bloomberg",
+        "age": 75,
+        "worth": 47.5,
+        "company": "Bloomberg L.P.",
+        "revenue": 9.4
+    },
+    {
+        "id": 6,
+        "name": "Richard Branson",
+        "age": 67,
+        "worth": 5.1,
+        "company": "Virgin Group",
+        "revenue": 19.5    
+    },
+    {
+        "id": 7,
+        "name": "Donald Trump",
+        "age": 71,
+        "worth": 3.1,
+        "company": "The Trump Organization",
+        "revenue": 9.5
+    },
+    {
+        "id": 8,
+        "name": "Jack Ma",
+        "age": 53,
+        "worth": 46.6,
+        "company": "Alibaba",
+        "revenue": 23.82
+    },
+    {
+        "id": 9,
+        "name": "Larry Page",
+        "age": 44,
+        "worth": 51.5,
+        "company": "Google",
+        "revenue": 89.46
+    },
+    {
+        "id": 10,
+        "name": "Oprah Winfrey",
+        "age": 63,
+        "worth": 2.8,
+        "company": "Oprah Winfrey Network",
+        "revenue": 5.3
+    }
+
+]

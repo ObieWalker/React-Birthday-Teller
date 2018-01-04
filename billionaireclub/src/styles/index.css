@@ -1,0 +1,25 @@
+body {
+    background-image:  url('../assets/billionairesPic.jpg');
+    height: 600px;
+    background-size: cover;
+    background-repeat: none;
+    opacity: 0.5;
+}
+.App {
+    text-align: center;
+    padding: 5%;
+}
+.right-button {
+    cursor: pointer;
+    float: right;
+}
+.list-item {
+    display: inline-block;
+}
+h4 {
+    color: cyan;
+}
+h2 {
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
