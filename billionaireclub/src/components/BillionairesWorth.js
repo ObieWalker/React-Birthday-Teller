@@ -5,12 +5,12 @@ class BillionairesWorth extends Component {
     worth () {
         let worth = 0;
         this.props.riches.forEach(billionaire => worth += billionaire.worth)
-        return worth
+        return worth.toFixed(2)
     }
     revenue () {
         let revenue = 0
         this.props.riches.forEach(billionaire => revenue += billionaire.revenue)
-        return revenue 
+        return revenue.toFixed(2)
     }
     render () {
         return (
@@ -18,8 +18,8 @@ class BillionairesWorth extends Component {
                 <h4>Billionaires Worth</h4>
                 <ul className="list-group ">
                 <li className=" list-group-item text-left">
-                    <b> Squad Cash: </b> {this.worth()}<br/>
-                    <b> Company Revenue: </b> {this.revenue()}
+                    <b> Squad Total Cash (in billion): $</b>{this.worth()}<br/>
+                        <b> Company Annual Revenue (in billion): $</b>{this.revenue()}
                 </li>
 
                 </ul>

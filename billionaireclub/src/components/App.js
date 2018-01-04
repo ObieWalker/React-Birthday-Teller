@@ -13,10 +13,10 @@ class App extends Component {
                 <div className="col-md-4">
                 <BillionaireList/>
                 </div>
-                <div className="col-md-4">
+                <div className="col-md-3">
                 <RichList />
                 </div>
-                <div className="col-md-4">
+                <div className="col-md-4.5">
                 <BillionairesWorth />
                 </div>
                 </div>
